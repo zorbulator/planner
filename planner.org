@@ -1,12 +1,13 @@
 #+TITLE: School Planner
-* 1: APCSA [4/6]
+* 1: APCSA   [6/7]
 ** [X] finish calc GPA
 ** [X] 1.3.6 - 1.3.9
 ** [X] 2.2
 ** [X] finish 1.7
-** [ ] 2.4.1-6
-** [ ] 2.5.1-8
-* 2: English [12/14]
+** [X] 2.4.1-6
+** [X] 2.5.1-8
+** [ ] gameboard
+* 2: English [15/16]
 ** [X] Sign up for "hang-out"
 DEADLINE: <2020-08-18 Tue 22:00>
 ** [X] Letter
@@ -25,9 +26,11 @@ DEADLINE: <2020-09-01 Tue>
 ** [X] Language Lesson
 ** [X] finish notebook
 ** [X] upload packet
-** [ ] My american creed
-** [ ] douglass ch.1-9
-* 3: Physics [18/19]
+** [X] My american creed
+** [X] douglass ch.1-3
+** [X] douglass 4-6
+** [ ] douglass 7-9
+* 3: Physics [22/24]
 ** [X] Youtube Playlist
 DEADLINE: <2020-08-18 Tue>
 ** [X] Equipment
@@ -60,8 +63,13 @@ DEADLINE: <2020-09-09 Wed>
 ** [X] fusion/fission model
 ** [X] probably some kind of model
 ** [X] whatever the homework is
-** [ ] research -> google doc (last 2 questions)
-* 4: Math [12/14]
+** [X] research -> google doc (last 2 questions)
+** [X] expanding universe part a
+** [X] read 930-935 by sun
+** [X] lab b/c
+** [ ] part d
+** [ ] wmap notes
+* 4: Math    [15/16]
 ** [X] survey?
 ** [X] page 12-13
    DEADLINE: <2020-08-20 Thu 11:59>
@@ -75,9 +83,11 @@ DEADLINE: <2020-09-09 Wed>
 ** [X] Check worksheet
 ** [X] matrix worksheet
 ** [X] review guide
-** [ ] practice test
-** [ ] review review guide
-* 5: Spanish [9/10]
+** [X] practice test
+** [X] review review guide
+** [X] homework 7-2
+** [ ] direct instruction + 3 problems
+* 5: Spanish [11/12]
 ** [X] Mi persona favorita
 *** submit copy
 ** [X] casillero virtual
@@ -88,8 +98,10 @@ DEADLINE: <2020-09-09 Wed>
 ** [X] proyecto
 ** [X] mis amig@s?
 ** [X] friends diagram
-** [ ] write comparative sentences
-* 6: History [13/14]
+** [X] write comparative sentences
+** [X] reflexión
+** [ ] 5 cosas que hace
+* 6: History [15/16]
 ** [X] fill out slide
 DEADLINE: <2020-08-21 Fri>
 ** [X] syllabus / equipment
@@ -110,4 +122,6 @@ DEADLINE: <2020-09-01 Tue>
 ** [X] visual metaphor
 ** [X] Bill of rights
 ** [X] song analysis
-** [ ] readings 1-5
+** [X] readings 1-5
+** [X] 6-10
+** [ ] 11-14
