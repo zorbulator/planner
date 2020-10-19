@@ -1,143 +1,21 @@
 #+TITLE: School Planner
-* 1: APCSA   [10/12]
-** [X] finish calc GPA
-** [X] 1.3.6 - 1.3.9
-** [X] 2.2
-** [X] finish 1.7
-** [X] 2.4.1-6
-** [X] 2.5.1-8
-** [X] gameboard
-** [X] finish string methods
-** [X] street in tree
-** [X] codehs 2.9.1-2.9.8
-** [ ] strings
-** [ ] chatbot
-* 2: English [17/17]
-** [X] Sign up for "hang-out"
-DEADLINE: <2020-08-18 Tue 22:00>
-** [X] Letter
-DEADLINE: <2020-08-24 Mon>
-** [X] Policy Edpuzzle
-DEADLINE: <2020-08-26 Wed>
-** [X] annotate articles 2/3
-DEADLINE: <2020-08-30 Sun>
-** [X] GO TO HANG-OUT 8/27
-DEADLINE: <2020-08-27 Thu 03:15>
-** [X] Quote Analysis
-DEADLINE: <2020-09-01 Tue>
-** [X] music
-** [X] reading
-** [X] Annotate articles 9-11 + author intent
-** [X] Language Lesson
-** [X] finish notebook
-** [X] upload packet
-** [X] My american creed
-** [X] douglass ch.1-3
-** [X] douglass 4-6
-** [X] douglass 7-9
-** [X] douglass 10-11
-* 3: Physics [28/29]
-** [X] Youtube Playlist
-DEADLINE: <2020-08-18 Tue>
-** [X] Equipment
-DEADLINE: <2020-08-24 Mon>
-*** tape
-*** highlighter
-*** pens
-*** colored pencils
-*** ruler, calculator
-** [X] Reading
-** [X] homework 8/20 [0/0]
-   DEADLINE: <2020-08-24 Mon>
-*** [X] 3 truths + lie
-*** [X] watch video
-** [X] expectations sheets [0/0]
-*** [X] sign expectations
-*** [X] paste test expectations
-** [X] Worksheet 1 + questions
-** [X] Reading
-** [X] Print stuff?
-** [X] Flipgrid
-** [X] Finish star survey
-** [X] estudiar
-** [X] Reading
-** [X] reading 842-851
-DEADLINE: <2020-09-09 Wed>
-** [X] calculations odds only
-DEADLINE: <2020-09-09 Wed>
-** [X] "models" of forces
-** [X] fusion/fission model
-** [X] probably some kind of model
-** [X] whatever the homework is
-** [X] research -> google doc (last 2 questions)
-** [X] expanding universe part a
-** [X] read 930-935 by sun
-** [X] lab b/c
-** [X] part d
-** [X] wmap notes
-** [X] read 5 pages
-** [X] print graphics
-** [X] dark energy/matter reading
-** [X] read expectations
-** [ ] analog/digital
-* 4: Math    [18/18]
-** [X] survey?
-** [X] page 12-13
-   DEADLINE: <2020-08-20 Thu 11:59>
-** [X] page 19 homework
-** [X] Videos for homework
-** [X] homework problems 8/26
-** [X] Homework 8/31
-** [X] 39-42 questions + matrix video
-** [X] hw 11-2
-** [X] Worksheet
-** [X] Check worksheet
-** [X] matrix worksheet
-** [X] review guide
-** [X] practice test
-** [X] review review guide
-** [X] homework 7-2
-** [X] direct instruction + 3 problems
-** [X] homework 10/5
-** [X] log equations
-* 5: Spanish [13/13]
-** [X] Mi persona favorita
-*** submit copy
-** [X] casillero virtual
-** [X] family picture
-** [X] 10 actividades
-** [X] ¿Qué le gusta a Rafael?
-** [X] Kahoot challenge
-** [X] proyecto
-** [X] mis amig@s?
-** [X] friends diagram
-** [X] write comparative sentences
-** [X] reflexión
-** [X] 5 cosas que hace
+* 1: APCSA   [4/7]
+** [X] strings
+** [X] chatbot
+** [X] finish 3.1
+** [X] Name
+** [ ] 3.2.1-7
+** [ ] Lucky Duck
+** [ ] I Love If Statements
+* 2: English [0/0]
+* 3: Physics [2/2]
+** [X] 300-305
+** [X] print/materials
+* 4: Math    [2/2]
+** [X] worksheet
+** [X] Study guide
+* 5: Spanish [1/1]
 ** [X] quinceañero
-* 6: History [18/18]
-** [X] fill out slide
-DEADLINE: <2020-08-21 Fri>
-** [X] syllabus / equipment
-DEADLINE: <2020-08-21 Fri>
-** [X] map project
-DEADLINE: <2020-08-21 Fri>
-** [X] notes type survey
-** [X] prepare reading for socratic seminar
-** [X] Writing about american vs puritan values [2/2]
-*** [X] Rough Draft
-DEADLINE: <2020-08-28 Fri>
-*** [X] Final
-DEADLINE: <2020-09-01 Tue>
-** [X] Reading questions
-** [X] constitution questions
-** [X] rebellion / confederation homework (gone from schoology?)
-** [X] constitution video
-** [X] visual metaphor
-** [X] Bill of rights
-** [X] song analysis
-** [X] readings 1-5
-** [X] 6-10
-** [X] 11-14
-** [X] slavery lecture/notes
-** [X] T-chart thing
+* 6: History [0/2]
+** [ ] family scrapbook
+** [ ] Immigration part 2
