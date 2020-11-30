@@ -1,5 +1,5 @@
 #+TITLE: School Planner
-* 1: APCSA   [9/9]
+* 1: APCSA   [9/10]
 ** [X] strings
 ** [X] chatbot
 ** [X] finish 3.1
@@ -9,28 +9,36 @@
 ** [X] I Love If Statements
 ** [X] 3.4.1-9
 ** [X] next section
-* 2: English [3/4]
+** [ ] finish 5.1.1-6
+* 2: English [5/6]
 ** [X] finish edpuzzle
 ** [X] rhetorical appeal
 ** [X] turn in language lessons
-** [ ] read
-* 3: Physics [6/6]
+** [X] read
+** [X] READ to 236 by THURSDAY 10pm
+** [ ] print packet
+* 3: Physics [7/7]
 ** [X] 300-305
 ** [X] print/materials
 ** [X] waves/diffraction notes
 ** [X] notes
 ** [X] print theoretician
 ** [X] study
-* 4: Math    [3/3]
+** [X] read about earthquakes / study
+* 4: Math    [3/4]
 ** [X] worksheet
 ** [X] Study guide
 ** [X] homework 2-1
-* 5: Spanish [2/2]
+** [ ] arccos hw
+* 5: Spanish [3/4]
 ** [X] quinceañero
 ** [X] quithlet
-* 6: History [4/5]
+** [X] practice quiz
+** [ ] sabores
+* 6: History [6/6]
 ** [X] family scrapbook
 ** [X] Immigration part 2
 ** [X] Warmth of Other Suns reading
 ** [X] packet
-** [ ] ESSAY
+** [X] ESSAY
+** [X] answer questions
